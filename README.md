@@ -1,73 +1,27 @@
-# Welcome to your Lovable project
+Features
+Vehicle Management: Add, update, and track vehicle details including registration, maintenance schedules, and status.
 
-## Project info
+Driver Management: Manage driver profiles, licenses, and assignments.
 
-**URL**: https://lovable.dev/projects/d78e69e2-e0f2-4b31-bfc0-8cc8b92378e2
+Route Planning: Create and optimize routes for efficient transportation.
 
-## How can I edit this code?
+Trip Scheduling: Schedule trips with detailed information on pickup, drop-off, and timing.
 
-There are several ways of editing your application.
+Real-time Tracking: Monitor vehicle locations and trip progress (if GPS integration available).
 
-**Use Lovable**
+Reports & Analytics: Generate reports on trips, vehicle usage, and driver performance.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/d78e69e2-e0f2-4b31-bfc0-8cc8b92378e2) and start prompting.
+User Roles: Different access levels for admins, dispatchers, and drivers.
 
-Changes made via Lovable will be committed automatically to this repo.
+Technologies Used
+Frontend: React / Angular / Vue.js (adjust as per your project)
 
-**Use your preferred IDE**
+Backend: Node.js / Django / Flask / Spring Boot (adjust as per your project)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Database: MySQL / PostgreSQL / MongoDB
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Authentication: JWT / OAuth2
 
-Follow these steps:
+Deployment: GitHub Pages / Heroku / AWS / DigitalOcean
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/d78e69e2-e0f2-4b31-bfc0-8cc8b92378e2) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes it is!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Installation
